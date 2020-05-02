@@ -166,7 +166,7 @@ a:hover {
 	background-image: url(../images/bg.jpg);
 	background-repeat:no-repeat;
 	background-position: center top;
-	background-attachment: cover;
+	background-size: cover;
 
 }
 
